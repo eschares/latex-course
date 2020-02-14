@@ -1,0 +1,15 @@
+\documentclass{article}
+\begin{document}
+
+\begin{center}
+    Grocery list:
+\end{center}
+
+\begin{itemize}
+    \item Milk
+    \item Eggs
+    \item Bread \& butter
+    \item $\frac{1}{2}$ pound of hamburger (should be \$2.99/lb)
+\end{itemize}
+
+\end{document}
